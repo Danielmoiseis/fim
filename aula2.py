@@ -1,0 +1,5 @@
+print(12, 34, sep='-')
+print(45, 67, sep='-', end='\n##')
+print(243, 43434, sep='-', end='\n')
+# \r\n -> CLRF (quebra de linha)
+# \n -> LF (quebra de linha)
